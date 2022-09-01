@@ -1,0 +1,17 @@
+p{color:yellow}
+p{font-size:50px;font-weight: bolder;}
+h1{background-color: ;}
+h1{font-size: 60px;}
+h1{text-align: center;}
+h1{text-color: blue ;}	
+
+ body{font-size:0px; background-color:fuchsia; }
+	button {border-radius:10px;font-size:40px;background-image:url("");background-size: cover;}
+.img{
+	margin: 30px;}
+p{color:yellow;font-size: 25px; ;}
+	.grid-container{
+display:grid;
+gap: 100px;
+grid-template-columns:auto auto;
+}

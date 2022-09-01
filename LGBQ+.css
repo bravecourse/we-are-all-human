@@ -1,0 +1,10 @@
+p{color:yellow}
+p{font-size:48px;}
+h1{background-color:red ;}
+h1{font-size: 60px;}
+h1{text-align: center;}	
+
+body {background-image:url("we are all human.jpg") ;background-size: cover;}
+	button {border-radius:300px;font-size:800px; width:450px; height: 200px;background-image:url("LGBT.jpg");background-size: cover;}
+	img {width: 380px;height: 126px; object-fit: contain;} 
+	a{color: orange;font-size: 30px;}

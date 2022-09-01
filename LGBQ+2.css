@@ -1,0 +1,18 @@
+p{color:purple ;}
+#background{background-color:deeppink; display: inline-block;
+font-size: 60PX;font-style: italic;font-color: blue}
+h1{text-align: center;}
+body{font-size:0px; background-color: #FCC2FF; }
+#img3 {background-image:url("labels aside.jpg");background-size: cover; height: 1000px;}
+	button {border-radius:300px;font-size:800px;} 
+.img{
+
+	margin: 85px;}
+p{color:purple;font-size: 25px;}
+	.grid-container{
+display: grid;
+gap: 100px;
+grid-template-columns:auto auto;
+}
+#zone {display: block;margin-left: auto;margin-right: auto}
+#click {text-align: center;}
